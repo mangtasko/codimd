@@ -128,7 +128,7 @@
     "validator": "^10.4.0",
     "velocity-animate": "^1.4.0",
     "visibilityjs": "^1.2.4",
-    "viz.js": "^1.7.0",
+    "viz.js": "^2.1.2",
     "winston": "^3.1.0",
     "ws": "^6.0.0",
     "xss": "^1.0.3"
