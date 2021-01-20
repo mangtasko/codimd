@@ -115,7 +115,7 @@
     "sequelize": "^3.28.0",
     "sequelize-cli": "^2.5.1",
     "shortid": "2.2.8",
-    "socket.io": "~2.0.4",
+    "socket.io": "~2.4.0",
     "socket.io-client": "~2.0.4",
     "spin.js": "^2.3.2",
     "sqlite3": "^4.0.1",
